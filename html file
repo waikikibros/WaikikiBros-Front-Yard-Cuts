@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WaikikiBros Front Yard Cuts</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#about">About Me</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#scheduler">Scheduler</a></li>
+        <li><a href="https://www.yelp.com/biz/waikikibros-front-yard-cuts-honolulu">Reviews</a></li>
+      </ul>
+    </nav>
+    <header>
+      <h1>Welcome to WaikikiBros Front Yard Cuts!</h1>
+      <p>My brother and I are the owners and operators of this lawn care business. We are two almost teenagers who enjoy working outside, providing lawn care services and saving money for our future.</p>
+    </header>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>$15 The Tryout (One time cut)</li>
+        <li>$30 The Semi (Two cuts per month)</li>
+        <li>$50 The Major (Weekly cut)</li>
+      </ul>
+    </section>
+    <section id="scheduler">
+      <h2>Scheduler</h2>
+      <p>To schedule a service, please click on the button below to access our scheduling tool:</p>
+      <a href="https://acuityscheduling.com/schedule.php?owner=XXXXXXXX">Schedule Now</a>
+    </section>
+    <section id="reviews">
+      <h2>Reviews</h2>
+      <p>Check out some of our customer reviews:</p>
+      <ul>
+        <li>"WaikikiBros Front Yard Cuts did an excellent job on my lawn. They were efficient, courteous, and professional. I would highly recommend them to anyone looking for lawn care services!" - John D.</li>
+        <li>"I was very impressed with the quality of service provided by WaikikiBros Front Yard Cuts. They were prompt, thorough, and reasonably priced. I will definitely be using their services again in the future!" - Jane S.</li>
+      </ul>
+    </section>
+  </body>
+</html>
